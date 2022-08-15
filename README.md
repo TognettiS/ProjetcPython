@@ -2,24 +2,24 @@
 
 Troque o Branch de Main para Master caso queira visualizar os arquivos.
 
-ProjetosPython:
+Descrição:
 
-1- Sorteador de números aleatórios
+APIDicionario- Utilização de uma API para buscar significado e sinônimos de uma palavra escolhida.
 
-2- Calcula média entre 3 valores
+APIFilmes- Utilização de uma API para procurar filmes e informar dados sobre o filme escolhido.
 
-3- Utilização de uma API para buscar significado e sinônimos de uma palavra escolhida
+EnviaEmail- Envio de E-mail via Python utilizando 2 bibliotecas Python.
 
-4- Utilização de uma API para procurar filmes e informar dados sobre o filme escolhido
+MaiorPalavra- Detecção da maior palavra informada pelo usuário, transformando a 1ª letra em maiúscula e retirando sinais de pontuação.
 
-5- Utilização de dicionários da própria linguagem Python
+Media- Calcula média entre 3 valores.
 
-6- Envio de E-mail via Python utilizando 2 bibliotecas Python
+Pandas- Consulta e mudança de dados da tabela BaseVendas utilizando o framework Pandas
 
-7- Consulta e mudança de dados da tabela BaseVendas utilizando Pandas
+PythonDicionario- Utilização de dicionários da própria linguagem Python
 
-8- Integração de projeto no MySQL com o Python utilizando conectores, modificando, criando, inserindo e excluindo valores dos bancos de dados.
+PythonSQL- Integração de projeto no MySQL com o Python utilizando conectores, modificando, criando, inserindo e excluindo valores dos bancos de dados.
 
-9- Automatização que envia palavras aleatórias para o site Termo, utilizando a biblioteca Selenium e uma API com diversas palavras em português.
+Selenium- Automatização que envia palavras aleatórias para o site Termo, utilizando a biblioteca Selenium e uma API com diversas palavras em português.
 
-10- Detecção da maior palavra informada pelo usuário, transformando a 1ª letra em maiúscula e retirando sinais de pontuação.
+Sorteador- Sorteador de números aleatórios.
